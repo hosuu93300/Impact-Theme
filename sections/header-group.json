@@ -14,15 +14,23 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_LnaTMr": {
+          "type": "message",
+          "settings": {
+            "text": "Garantie satisfait ou remboursé de 30 jours | Retours gratuits",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Grande vente du Nouvel An | Jusqu'à 30 % de réduction",
             "url": ""
           }
         }
       },
       "block_order": [
+        "message_LnaTMr",
         "message"
       ],
       "settings": {
