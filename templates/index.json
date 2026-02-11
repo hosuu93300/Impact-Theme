@@ -221,16 +221,6 @@
             "show_empty": false
           }
         },
-        "separator": {
-          "type": "separator",
-          "settings": {}
-        },
-        "description": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
         "variant-picker": {
           "type": "variant_picker",
           "settings": {
@@ -263,8 +253,6 @@
         "badges",
         "price",
         "rating",
-        "separator",
-        "description",
         "variant-picker",
         "quantity-selector",
         "buy-buttons"
