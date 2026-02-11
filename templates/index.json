@@ -156,9 +156,10 @@
         "16644243327ba53d2a-0": {
           "type": "quote",
           "settings": {
+            "logo": "shopify://shop_images/22.avif",
             "logo_width": 100,
-            "author": "",
-            "content": "Share info about what your customers say about your products.",
+            "author": "Mark Sparrow",
+            "content": "Globalement, il s'agit d'un accessoire utile qui pourrait rendre votre espace de travail un peu plus rangé et vous aider à mieux vous organiser.",
             "show_rating": false,
             "rating": 4
           }
@@ -166,9 +167,10 @@
         "16644243327ba53d2a-1": {
           "type": "quote",
           "settings": {
+            "logo": "shopify://shop_images/11.avif",
             "logo_width": 100,
-            "author": "",
-            "content": "Or share content about your promotion, offers...",
+            "author": "Tyler Hayes",
+            "content": "De par sa qualité et sa fonctionnalité, le tapis de bureau de chargement sans fil Alti de Journev est un produit exceptionnel.",
             "show_rating": false,
             "rating": 4
           }
