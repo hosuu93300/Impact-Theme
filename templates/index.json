@@ -155,6 +155,37 @@
         "heading_gradient": ""
       }
     },
+    "featured_collection_Ki6fy4": {
+      "type": "featured-collection",
+      "name": "Featured collection",
+      "settings": {
+        "collection": "",
+        "products": [
+          "alti-wireless-charging-desk-mat",
+          "loc8-finder-passport-wallet",
+          "nexa-laptop-sleeve-with-wireless-charging",
+          "nova-3-in-1-wireless-charging-station"
+        ],
+        "full_width": true,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Featured collection",
+        "content": "",
+        "link_url": "",
+        "link_text": "View all",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
+      }
+    },
     "scrolling-text": {
       "type": "scrolling-text",
       "settings": {
@@ -236,36 +267,6 @@
         "text_color": "",
         "heading_color": "",
         "heading_gradient": ""
-      }
-    },
-    "featured-collection": {
-      "type": "featured-collection",
-      "settings": {
-        "collection": "",
-        "products": [
-          "alti-wireless-charging-desk-mat",
-          "loc8-finder-passport-wallet",
-          "nexa-laptop-sleeve-with-wireless-charging",
-          "nova-3-in-1-wireless-charging-station"
-        ],
-        "full_width": true,
-        "stack_products": false,
-        "show_progress_bar": false,
-        "products_count": 6,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "subheading": "",
-        "title": "Featured collection",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "product_card_background": "",
-        "product_card_text_color": ""
       }
     },
     "impact-text": {
@@ -883,9 +884,9 @@
   "order": [
     "slideshow",
     "image-link-blocks",
+    "featured_collection_Ki6fy4",
     "scrolling-text",
     "collection-list",
-    "featured-collection",
     "impact-text",
     "image-with-text-overlay",
     "media-grid",
